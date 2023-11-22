@@ -132,8 +132,8 @@ input[type="radio"]{
     justify-content: center;
     border: 1px solid #67595e;
     border-radius: 5px;
-    width: 70vw;
-    height: 80vh;
+    width: 40vw;
+    height: 60vh;
     background-color: #fff0ee;
     padding: 10px;
     overflow: auto;
@@ -142,8 +142,8 @@ input[type="radio"]{
 
 
 .cat-img{
-    max-height: 170px;
-    max-width: 250px;
+    max-height: 300px;
+    max-width: 300px;
     border-radius: 5px;
 }
 
